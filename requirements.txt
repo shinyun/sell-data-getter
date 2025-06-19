@@ -1,0 +1,30 @@
+# Web框架
+fastapi
+uvicorn
+pydantic
+
+# 数据库
+sqlalchemy
+alembic
+
+# 爬虫相关
+requests
+beautifulsoup4
+fake-useragent
+aiohttp
+
+# 数据处理
+pandas
+numpy
+
+# 定时任务
+apscheduler
+
+# 配置管理
+python-dotenv
+
+# 日志
+loguru
+
+# 工具库
+python-dateutil

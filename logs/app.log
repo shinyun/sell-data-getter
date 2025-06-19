@@ -1,0 +1,24 @@
+2025-06-19 07:51:53 | INFO     | __main__:main:15 - 启动 电商热销数据分析系统 v1.0.0
+2025-06-19 07:51:53 | INFO     | __main__:main:16 - 服务地址: http://0.0.0.0:12000
+2025-06-19 07:51:53 | INFO     | __main__:main:17 - API文档: http://0.0.0.0:12000/docs
+2025-06-19 07:51:53 | INFO     | __main__:main:18 - 前端界面: http://0.0.0.0:12000/static/index.html
+2025-06-19 07:51:54 | INFO     | web.api:startup_event:343 - 启动电商数据分析系统...
+2025-06-19 07:51:54 | INFO     | scheduler.task_scheduler:_add_scraping_jobs:73 - 已添加 amazon 爬虫任务，更新间隔: 3600秒
+2025-06-19 07:51:54 | INFO     | scheduler.task_scheduler:_add_scraping_jobs:73 - 已添加 temu 爬虫任务，更新间隔: 3600秒
+2025-06-19 07:51:54 | INFO     | scheduler.task_scheduler:_add_scraping_jobs:73 - 已添加 ebay 爬虫任务，更新间隔: 3600秒
+2025-06-19 07:51:54 | INFO     | scheduler.task_scheduler:_add_scraping_jobs:73 - 已添加 tiktok_shop 爬虫任务，更新间隔: 1800秒
+2025-06-19 07:51:54 | INFO     | scheduler.task_scheduler:_add_analysis_jobs:127 - 已添加所有分析任务
+2025-06-19 07:51:54 | INFO     | scheduler.task_scheduler:start:40 - 任务调度器已启动
+2025-06-19 07:51:54 | INFO     | web.api:startup_event:352 - 系统启动完成
+2025-06-19 07:52:32 | INFO     | web.api:shutdown_event:358 - 关闭电商数据分析系统...
+2025-06-19 07:52:32 | INFO     | scheduler.task_scheduler:stop:49 - 任务调度器已停止
+2025-06-19 07:52:32 | INFO     | web.api:shutdown_event:363 - 系统已关闭
+2025-06-19 07:52:33 | INFO     | web.api:startup_event:343 - 启动电商数据分析系统...
+2025-06-19 07:52:33 | INFO     | scheduler.task_scheduler:_add_scraping_jobs:73 - 已添加 amazon 爬虫任务，更新间隔: 3600秒
+2025-06-19 07:52:33 | INFO     | scheduler.task_scheduler:_add_scraping_jobs:73 - 已添加 temu 爬虫任务，更新间隔: 3600秒
+2025-06-19 07:52:33 | INFO     | scheduler.task_scheduler:_add_scraping_jobs:73 - 已添加 ebay 爬虫任务，更新间隔: 3600秒
+2025-06-19 07:52:33 | INFO     | scheduler.task_scheduler:_add_scraping_jobs:73 - 已添加 tiktok_shop 爬虫任务，更新间隔: 1800秒
+2025-06-19 07:52:33 | INFO     | scheduler.task_scheduler:_add_analysis_jobs:127 - 已添加所有分析任务
+2025-06-19 07:52:33 | INFO     | scheduler.task_scheduler:start:40 - 任务调度器已启动
+2025-06-19 07:52:33 | INFO     | web.api:startup_event:352 - 系统启动完成
+2025-06-19 07:52:45 | INFO     | analysis.data_analyzer:analyze_trending_products:95 - 分析完成，找到 0 个热门商品
